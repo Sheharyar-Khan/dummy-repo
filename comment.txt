@@ -1,0 +1,4 @@
+# Dummy Project  
+Dummy project to understand the basics of Git
+
+##Git & Github Crash Course or Begineers @ youtube.com
